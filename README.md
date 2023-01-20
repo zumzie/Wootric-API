@@ -3,7 +3,7 @@ Wootric API using python. Writes data to csv
 
 
 Can be modified to extract files up to a selected amount of days.
-In order to do this, simply adjust the itneger on num_days
+In order to do this, simply adjust the integer on num_days
 
 ####
 
